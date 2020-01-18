@@ -4,12 +4,12 @@
 Project is created with
 * Java 
 * Gradle 
-* testNG Maven 
+* testNG 
 
 ### Project Setup
 To run this project
-Clone the repo from https://github.com/MbikoSiwapiwe/validatephonenumber/
-Run the tests in testFunction/src/java/ValidateNumber.java
+* Clone the repo from https://github.com/MbikoSiwapiwe/validatephonenumber/ 
+* Run the tests in testFunction/src/java/ValidateNumber.java
 
-###### Author
+#### Author
 Siwapiwe Mbiko
